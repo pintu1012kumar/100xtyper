@@ -1,8 +1,8 @@
 const Bottom = () => {
   return (
     <div className="text-center">
-      <h2>Made with ❤️</h2>
-      <p>by Harsh Mohite</p>
+      <h2>Created ♥️ by Pintu Kumar</h2>
+      <p>Don't forget to give feedback.</p>
     </div>
   );
 };
