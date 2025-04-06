@@ -4,8 +4,8 @@ import { faKeyboard } from "@fortawesome/free-regular-svg-icons";
 const Top = () => {
   return (
     <div>
-      <h1 className="heading text-center">
-        <FontAwesomeIcon icon={faKeyboard} className="main-icon" /> YourType
+      <h1 className="heading ">
+        <FontAwesomeIcon icon={faKeyboard} className="main-icon" /> 100xtyper
       </h1>
     </div>
   );
