@@ -1,4 +1,5 @@
 export const WORDS = [
+  "output",
   "the",
   "of",
   "to",
